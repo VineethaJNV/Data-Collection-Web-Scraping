@@ -6,7 +6,7 @@ Data Collection(From readily available API's and web scraping using Beautiful So
 
 - DataBases - SQL(MySQL, PostgreSQL etc), NoSQL databases (MongoDB etc)
 - Public Datasets - Kaggle, UCI ML Repo etc.
-- API's - Twitter API, Stock API, Weather API etc.
+- API's - Twitter API, Stock API, Weather API etc.(https://free-apis.github.io/#/)
 - Web Scraping - HTML pages, blogs/articles, social media pages etc.
 
 ## Primary Sources of data collection
